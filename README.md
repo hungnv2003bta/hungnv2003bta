@@ -71,8 +71,6 @@
   <div>
     <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="sqlserver logo" />
   </div>
 </div>
@@ -85,9 +83,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dunoiww&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunoiww&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hungnv2003bta&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
 </div>
+
 
 
 ###
