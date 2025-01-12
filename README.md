@@ -84,7 +84,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hungnv2003bta&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnv2003bta&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
 </div>
 
 
